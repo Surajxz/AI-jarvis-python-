@@ -1,4 +1,5 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=870320696748404653" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://in.pinterest.com/pin/870320696748404653/" alt="A brief description of the image">
+
 
 This is jarvis (desktop assistance ) with ai.
 
